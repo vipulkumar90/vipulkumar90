@@ -15,9 +15,9 @@
 Building intelligent systems at the intersection of **Machine Learning**, **Healthcare AI**, and **Software Engineering**.
 
 <p>
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vipulkumar90/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:vipulchaudhary64@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/vipulkumar90"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 </div>
@@ -189,11 +189,11 @@ Bharati Vidyapeeth's College of Engineering
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vipulkumar90&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulkumar90&layout=compact&hide_border=true"/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulkumar90&hide_border=true"/>
 
 </div>
 
@@ -203,7 +203,7 @@ Bharati Vidyapeeth's College of Engineering
 
 📧 **Email:** vipulchaudhary64@gmail.com
 
-💼 **LinkedIn:** YOUR_LINKEDIN
+💼 **LinkedIn:** https://www.linkedin.com/in/vipulkumar90/
 
 ---
 
