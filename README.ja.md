@@ -191,11 +191,17 @@ Bharati Vidyapeeth's College of Engineering
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vipulkumar90&show_icons=true&hide_border=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vipulkumar90&theme=github_dark" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulkumar90&layout=compact&hide_border=true"/>
+<br><br>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulkumar90&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vipulkumar90&theme=github_dark" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vipulkumar90&theme=github_dark" />
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=vipulkumar90&theme=github-dark&hide_border=true" />
 
 </div>
 
