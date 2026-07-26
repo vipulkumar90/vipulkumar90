@@ -10,7 +10,7 @@
 
 </div>
 
-🎓 M.Eng. Student in Human Intelligence Systems @ **Kyushu Institute of Technology, Japan**
+🎓 M.Eng. Student in AI Life Design @ **Kyushu Institute of Technology, Japan**
 
 Building intelligent systems at the intersection of **Machine Learning**, **Healthcare AI**, and **Software Engineering**.
 
