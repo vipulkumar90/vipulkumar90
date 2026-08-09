@@ -56,6 +56,78 @@ My work focuses on developing **intelligent healthcare systems** using **Machine
 
 ---
 
+## 🏕️ Healthcare Innovation Bootcamp
+
+<p align="center">
+  <!-- BOOTCAMP BANNER PLACEHOLDER -->
+  <img src="./assets/bootcamp-banner.jpeg"
+       width="900"
+       alt="Healthcare Innovation Bootcamp">
+</p>
+
+**Fujita Hospital · Summer 2026 · Japan**
+
+A 10-day healthcare innovation bootcamp focused on Design Thinking,
+AI-assisted innovation, user research, rapid prototyping, and
+validation in a healthcare environment.
+
+### 🧠 What I Learned
+
+The bootcamp introduced a structured Design Thinking process:
+
+| Discover | Define | Ideate | Prototype | Validate |
+|----------|--------|--------|-----------|----------|
+| Observation | 5 Whys | Crazy 8s | Rapid Prototyping | User Testing |
+| Interviews | Empathy Maps | Storyboarding | Low-fidelity UX | Feedback |
+| AEIOU | Journey Maps | Decision Sprints | Iteration | Validation Grid |
+| Opportunity Mapping | HMW Questions | — | — | Impact / Effort |
+
+### 🛠️ What I Built
+
+**Rehabilitation Progress Visualizer**
+
+A therapist-guided healthcare application designed to make
+rehabilitation progress visible and understandable to patients.
+
+The prototype represents rehabilitation as a journey across Japan,
+where achieving rehabilitation milestones progressively moves the
+patient from **Hokkaido → Tokyo**.
+
+### 🔄 From Idea to Prototype
+
+**🌸 Initial Concept: Japanese Garden**
+
+Progress was represented through a garden that became richer as
+rehabilitation milestones were achieved.
+
+⬇️ **User Validation**
+
+The visual approach was well received, but users did not always
+understand where the journey was leading.
+
+⬇️ **Design Iteration**
+
+**🗾 Current Concept: Japan Journey**
+
+The garden metaphor was replaced with a journey that communicates
+both **progress and direction**.
+
+### 👥 My Contributions
+
+- Contributed to prototype development and implementation
+- Worked on UI/UX iteration
+- Incorporated patient and therapist feedback
+- Helped translate rehabilitation milestones into visual experiences
+- Contributed to testing and refinement
+
+### 💡 Key Takeaway
+
+> Building healthcare technology isn't only about the technology itself.
+> Understanding users, validating assumptions, and iterating based on
+> feedback are equally important.
+
+---
+
 ## 💻 Tech Stack
 
 ### Languages
