@@ -62,7 +62,9 @@
 
 <p align="center">
   <!-- BOOTCAMP BANNER PLACEHOLDER -->
-  <img src="./assets/bootcamp-banner.png" width="900" alt="ヘルスケアイノベーション・ブートキャンプ">
+  <img src="./assets/bootcamp-banner.jpeg"
+       width="900"
+       alt="Healthcare Innovation Bootcamp">
 </p>
 
 **藤田医科大学病院 · 2026年夏 · 日本**
